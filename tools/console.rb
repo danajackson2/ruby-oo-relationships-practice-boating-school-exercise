@@ -1,4 +1,4 @@
-require_relative '../config/environment.rb'
+b2require_relative '../config/environment.rb'
 
 def reload
   load 'config/environment.rb'
